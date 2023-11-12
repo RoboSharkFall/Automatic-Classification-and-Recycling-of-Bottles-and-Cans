@@ -18,3 +18,9 @@ git clone https://github.com/RoboSharkFall/Automatic_Classification_and_Recyclin
 ```
 run main_bottle_picking.py
 ```
+
+> * 'functions_bottle_recog.py': Functions used for image segmentation
+> * 'functions_bottle_classification.py':Functions used for classifying bottles and cans.
+> * 'functions_bottle_picking.py': Functions used for calculating objects' pose.
+
+
