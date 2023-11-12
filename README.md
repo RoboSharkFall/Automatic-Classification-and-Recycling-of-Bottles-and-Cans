@@ -3,5 +3,5 @@ This package is an implementation of classify and recycle bottles and cans autom
 
 ### *Experiment* 
 <p align = "center">
-<img src="GIF/project_order_2.gif" width="600" height="480"> 
+<img src="GIF/project_order_2.gif" width="360" height="288"> 
 </p>
