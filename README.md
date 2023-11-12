@@ -24,4 +24,7 @@ run main_bottle_picking.py
 > * 'functions_bottle_classification.py':Functions used for classifying bottles and cans.
 > * 'functions_bottle_picking.py': Functions used for calculating objects' pose.
 
-
+## 4. Simple flow chart
+<p align = "center">
+<img src="GIF/procedure.png" width="360">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
